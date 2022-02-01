@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1634648334 source:c:\users\florian\desktop\12002209_ue1\main.c
+	"operations.h"
+
+1634648698 source:c:\users\florian\desktop\12002209_ue1\operations.c
+	"operations.h"
+
+1634556134 c:\users\florian\desktop\12002209_ue1\operations.h
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<duma.h>
+
+1634648698 source:d:\studieren\3.semester\306.017 programmieren 2\Übung_1\12002209_ue1\operations.c
+	"operations.h"
+
+1634556134 d:\studieren\3.semester\306.017 programmieren 2\Übung_1\12002209_ue1\operations.h
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<duma.h>
+
+1634667958 source:d:\studieren\3.semester\306.017 programmieren 2\Übung_1\12002209_ue1\main.c
+	"operations.h"
+

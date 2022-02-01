@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1638223321 source:c:\users\florian\desktop\12002209_ue3\main.c
+	"operations.h"
+
+1638265416 c:\users\florian\desktop\12002209_ue3\operations.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<ctype.h>
+
+1638266864 source:c:\users\florian\desktop\12002209_ue3\operations.c
+	"operations.h"
+

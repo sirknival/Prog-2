@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637758358 source:c:\users\florian\desktop\benchmark\container.c
+	"container.h"
+
+1637758324 c:\users\florian\desktop\benchmark\container.h
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1637758289 source:c:\users\florian\desktop\benchmark\main.c
+	<stdio.h>
+	<stdlib.h>
+	"container.h"
+

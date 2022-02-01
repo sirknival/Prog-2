@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636189948 source:c:\users\florian\desktop\ue2_12002209\functions.c
+	"functions.h"
+
+1635190415 c:\users\florian\desktop\ue2_12002209\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"duma.h"
+
+1635191550 source:c:\users\florian\desktop\ue2_12002209\main.c
+	"functions.h"
+
